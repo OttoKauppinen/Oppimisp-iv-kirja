@@ -6,6 +6,8 @@ Git on minulle aivan uusi työkalu en ole sitä aikaisemmin käyttänyt joten mi
 
 Harjoitus 3 meinasi tuottaa päänsärkyä mutta onnistuin tekemään harjoituksen kuitenkin. Ohjeisiin palaamisesta oli suurta hyötyä parissakin kohdassa. 
 
+Harjoitus 4: Tässä harjoituksessa alkoi jo mennä pää pyörälle. Tärkeää on koko ajan statuksen kautta seurata missä menee. 
+
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
@@ -24,4 +26,8 @@ Harjoitus 3 meinasi tuottaa päänsärkyä mutta onnistuin tekemään harjoituks
 | git restore .| palauttaa kaikki muutokset  |
 | git clean -f| poistaa untracked-tiedostot |
 | git revert commit_id| peruuttaa talletuksen |
+| git checkout|vaihtaa päähaara |
+| git branch| luo haara |
+| git switch| vaihtaa haaraa |
+| git merge|yhdistää haaran |
 
