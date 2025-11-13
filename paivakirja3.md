@@ -2,7 +2,8 @@
 
 __Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
 
-Kirjoita tähän vastauksesi
+-Pysyt helposti kartalla uusimmista versioista.
+-Voit poistaa tiedostoja ja peruuttaa vahinko poistot.
 
 __Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehittäjiä?__
 
