@@ -2,7 +2,9 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Git on minulle aivan uusi työkalu en ole sitä aikaisemmin käyttänyt joten minulla meni aikaa eri toimintojen lukemiseen, jotta osaan toimia gitin kanssa. Apua jouduin kysymään copilotilta sillä en ollut varma miten saan paivakirja1 näkyviin.
+Git on minulle aivan uusi työkalu en ole sitä aikaisemmin käyttänyt joten minulla meni aikaa eri toimintojen lukemiseen, jotta osaan toimia gitin kanssa. Apua jouduin kysymään copilotilta sillä en ollut varma miten saan paivakirja1 näkyviin. 
+
+Harjoitus 3 meinasi tuottaa päänsärkyä mutta onnistuin tekemään harjoituksen kuitenkin. Ohjeisiin palaamisesta oli suurta hyötyä parissakin kohdassa. 
 
 ## Osiossa käyttämäni Git-komennot
 
@@ -18,3 +20,8 @@ Git on minulle aivan uusi työkalu en ole sitä aikaisemmin käyttänyt joten mi
 | git rm | poistaa tiedoston |
 | git log | näyttää commit-talletusten historian |
 | git log --stat | listaa commit-talletusten historian ja yhteenvedon muutoksista |
+| git reset| peruuttaa tiedoston lisäämisen |
+| git restore .| palauttaa kaikki muutokset  |
+| git clean -f| poistaa untracked-tiedostot |
+| git revert commit_id| peruuttaa talletuksen |
+
