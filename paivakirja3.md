@@ -15,7 +15,7 @@ __Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehitt
 
 -Kaikki voivat työskennellä samaan aikaan.
 
--Jos ohjelma rikkoutuu nähdään helposti mistä muutos on tullut. 
+-Jos ohjelma rikkoutuu, nähdään helposti, mistä muutos on tullut. 
 
 __Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
 
@@ -25,9 +25,9 @@ __Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoproj
 
 -Main haaraan tuodaan aina toimivta ja testatut versiot.
 
--commit yhteydessä annetaan selkeä ja ytimekäs kuvaava kommentti siitä mitä on tehty.
+-commit yhteydessä annetaan selkeä ja ytimekäs kuvaava kommentti siitä, mitä on tehty.
 
--committeja tehdään säännöllisesti pienien muokkauksien jälkeen ei kerralla yhtä isoa. 
+-committeja tehdään säännöllisesti pienien muokkauksien jälkeen, ei kerralla yhtä isoa. 
 
 
 __Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmäärästä, hyödyllisyydestä. Mitä toivoisit olevan enemmän, mitä vähemmän?__
@@ -36,4 +36,4 @@ __Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmääräst
 
 -Työmäärä oli mielestäni ihan kohtuullinen ja vastasi kahden opintopisteen kurssin odotuksia.
 
--Olisin ehkä toivonut jotain FAQ kohtaa, jossa olisi vaikka yleisiä virhekohtia ja apua, jos X kohdassa jäät jumiin.
+-Olisin ehkä toivonut jotain FAQ kohtaa, jossa olisi vaikka yleisiä virhekohtia ja apua, jos X kohdassa jäät jumiin. Tässä voisi vaikka vinkata tekoälylle jotain prompteja, joilla kysyä apua.
