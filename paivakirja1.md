@@ -2,11 +2,11 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Git on minulle aivan uusi työkalu en ole sitä aikaisemmin käyttänyt joten minulla meni aikaa eri toimintojen lukemiseen, jotta osaan toimia gitin kanssa. Apua jouduin kysymään copilotilta sillä en ollut varma miten saan paivakirja1 näkyviin. 
+Git on minulle aivan uusi työkalu, joten en ole sitä aikaisemmin käyttänyt. Minulla meni yllättävän paljon aikaa eri toimintojen lukemiseen, jotta osasin toimia gitin kanssa. Apua jouduin kysymään Copilotilta, sillä en ollut varma, miten saan paivakirja1 näkyviin. 
 
-Harjoitus 3 meinasi tuottaa päänsärkyä mutta onnistuin tekemään harjoituksen kuitenkin. Ohjeisiin palaamisesta oli suurta hyötyä parissakin kohdassa. 
+Harjoitus 3 meinasi tuottaa pientä päänsärkyä, mutta onnistuin tekemään harjoituksen kuitenkin. Ohjeisiin palaamisesta oli suurta hyötyä useammassakin kohdassa tehtävää. 
 
-Harjoitus 4: Tässä harjoituksessa alkoi jo mennä pää pyörälle. Tärkeää on koko ajan statuksen kautta seurata missä menee. 
+Harjoitus 4: Tässä harjoituksessa alkoi jo mennä pää pyörälle. Keskeisintä minulle oli koko ajan statuksen kautta seurata, missä menen. 
 
 ## Osiossa käyttämäni Git-komennot
 
